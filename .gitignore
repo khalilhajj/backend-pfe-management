@@ -1,0 +1,60 @@
+# Django specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
+
+# Django migrations
+*/migrations/*
+
+# Media and static files
+/media/
+staticfiles/
+static/
+
+# Logs
+*.log
+*.pot
+*.py[co]
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.coveragerc
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+reports/
+profile_pics/
+Dockerfile
+cahiers_de_charges/
