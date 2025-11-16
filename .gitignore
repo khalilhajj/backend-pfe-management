@@ -58,3 +58,5 @@ reports/
 profile_pics/
 Dockerfile
 cahiers_de_charges/
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
